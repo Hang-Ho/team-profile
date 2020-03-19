@@ -1,1 +1,2 @@
 # team-profile
+the application will prompt the user for information about the team manager and team members. The user can input any number of team members, and there maybe a mix of engineers and interns. This also pass all unit tests. when the user has completed building the team, the application will create a HTML file that displays a nicely formatted team based on the information provided by the user
